@@ -1,0 +1,24 @@
+{
+  "20180731_am_1": {
+    "lda_max_ratio_vector_by_15d_False_5_0": "gen_decomposition_stats_vector_ftr51(\"max_ratio\", \"15d\", False, \"lda\", 5)",
+    "lda_max_ratio_vector_by_15d_False_5_1": "gen_decomposition_stats_vector_ftr51(\"max_ratio\", \"15d\", False, \"lda\", 5)",
+    "lda_max_ratio_vector_by_15d_False_5_2": "gen_decomposition_stats_vector_ftr51(\"max_ratio\", \"15d\", False, \"lda\", 5)",
+    "lda_max_ratio_vector_by_15d_False_5_3": "gen_decomposition_stats_vector_ftr51(\"max_ratio\", \"15d\", False, \"lda\", 5)",
+    "lda_max_ratio_vector_by_15d_False_5_4": "gen_decomposition_stats_vector_ftr51(\"max_ratio\", \"15d\", False, \"lda\", 5)",
+    "lda_std_vector_by_15d_False_5_0": "gen_decomposition_stats_vector_ftr51(\"std\", \"15d\", False, \"lda\", 5)",
+    "lda_std_vector_by_15d_False_5_1": "gen_decomposition_stats_vector_ftr51(\"std\", \"15d\", False, \"lda\", 5)",
+    "lda_std_vector_by_15d_False_5_2": "gen_decomposition_stats_vector_ftr51(\"std\", \"15d\", False, \"lda\", 5)",
+    "lda_std_vector_by_15d_False_5_3": "gen_decomposition_stats_vector_ftr51(\"std\", \"15d\", False, \"lda\", 5)",
+    "lda_std_vector_by_15d_False_5_4": "gen_decomposition_stats_vector_ftr51(\"std\", \"15d\", False, \"lda\", 5)",
+    "lda_mean_vector_by_15d_False_5_0": "gen_decomposition_stats_vector_ftr51(\"mean\", \"15d\", False, \"lda\", 5)",
+    "lda_mean_vector_by_15d_False_5_1": "gen_decomposition_stats_vector_ftr51(\"mean\", \"15d\", False, \"lda\", 5)",
+    "lda_mean_vector_by_15d_False_5_2": "gen_decomposition_stats_vector_ftr51(\"mean\", \"15d\", False, \"lda\", 5)",
+    "lda_mean_vector_by_15d_False_5_3": "gen_decomposition_stats_vector_ftr51(\"mean\", \"15d\", False, \"lda\", 5)",
+    "lda_mean_vector_by_15d_False_5_4": "gen_decomposition_stats_vector_ftr51(\"mean\", \"15d\", False, \"lda\", 5)",
+    "lda_max_vector_by_15d_False_5_0": "gen_decomposition_stats_vector_ftr51(\"max\", \"15d\", False, \"lda\", 5)",
+    "lda_max_vector_by_15d_False_5_1": "gen_decomposition_stats_vector_ftr51(\"max\", \"15d\", False, \"lda\", 5)",
+    "lda_max_vector_by_15d_False_5_2": "gen_decomposition_stats_vector_ftr51(\"max\", \"15d\", False, \"lda\", 5)",
+    "lda_max_vector_by_15d_False_5_3": "gen_decomposition_stats_vector_ftr51(\"max\", \"15d\", False, \"lda\", 5)",
+    "lda_max_vector_by_15d_False_5_4": "gen_decomposition_stats_vector_ftr51(\"max\", \"15d\", False, \"lda\", 5)"
+  }
+}

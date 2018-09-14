@@ -1,0 +1,14 @@
+{
+  "20180801_am_1": {
+    "max_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"max\", \"4d\", False)",
+    "sum_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"sum\", \"4d\", False)",
+    "max_ratio_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"max_ratio\", \"4d\", False)",
+    "sum_ratio_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"sum_ratio\", \"4d\", False)",
+    "std_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"std\", \"4d\", False)",
+    "mean_vector_ftr51_by_4d_False": "gen_stats_vector_ftr51(\"mean\", \"4d\", False)"
+  },
+  "20180801_am_2": {
+    "mean_vector_ftr51_by_4d_True": "gen_stats_vector_ftr51(\"mean\", \"4d\", True)",
+    "std_vector_ftr51_by_4d_True": "gen_stats_vector_ftr51(\"std\", \"4d\", True)"
+  }
+}

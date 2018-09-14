@@ -1,0 +1,14 @@
+{
+  "20180801_am_1": {
+    "sum_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"sum\", \"30d\", False)",
+    "max_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"max\", \"30d\", False)",
+    "sum_ratio_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"sum_ratio\", \"30d\", False)",
+    "max_ratio_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"max_ratio\", \"30d\", False)",
+    "mean_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"mean\", \"30d\", False)",
+    "std_vector_ftr51_by_30d_False": "gen_stats_vector_ftr51(\"std\", \"30d\", False)"
+  },
+  "20180801_am_2": {
+    "mean_vector_ftr51_by_30d_True": "gen_stats_vector_ftr51(\"mean\", \"30d\", True)",
+    "std_vector_ftr51_by_30d_True": "gen_stats_vector_ftr51(\"std\", \"30d\", True)"
+  }
+}
